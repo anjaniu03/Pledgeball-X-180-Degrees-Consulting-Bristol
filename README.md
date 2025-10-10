@@ -1,6 +1,7 @@
 # Pledgeball-X-180-Degrees-Consulting-Bristol
 
 **180 Degrees Consulting Bristol, Spring Cycle'2025**
+
 **The Team**: Anjani Upadhyay, Alpha Anindita, Bo Cresser, Eirshad Fahim, Freya Morris, Srosh Akbari
 
 Pledgeball is a UK based sustainability-focused football charity that encourages fans to make eco friendly pledges on match days. Our data science consulting team partnered with Pledgeball to analyse 200,000+ fan engagement records from July 2020 to January 2025, aiming to understand what drives pledges and how fan engagement could be amplified across leagues, regions and match timings.Our goal was simple but powerful: How can data help Pledgeball increase its impact, motivating more fans to pledge and amplifying sustainability in football?
@@ -14,10 +15,10 @@ Pledgeball is a UK based sustainability-focused football charity that encourages
 
 **Supporting Technologies**:
 
-Languages: Python, R
-Visualisation: Tableau
-Data Handling: Microsoft Excel
-Collaboration: GitHub, Google Drive, PowerPoint
+1. Languages: Python, R
+2. Visualisation: Tableau
+3. Data Handling: Microsoft Excel
+4. Team Collaboration: GitHub, Google Drive, PowerPoint
  
 **Methodology & Approach**:
 
