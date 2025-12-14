@@ -4,7 +4,7 @@
 
 **The Team**: Anjani Upadhyay, Alpha Anindita, Bo Cresser, Eirshad Fahim, Freya Morris, Srosh Akbari
 
-Pledgeball is a UK based sustainability-focused football charity that encourages fans to make eco friendly pledges on match days. Our data science consulting team partnered with Pledgeball to analyse 200,000+ fan engagement records from July 2020 to January 2025, aiming to understand what drives pledges and how fan engagement could be amplified across leagues, regions and match timings.Our goal was simple but powerful: How can data help Pledgeball increase its impact, motivating more fans to pledge and amplifying sustainability in football?
+Pledgeball is a UK based sustainability-focused football charity that encourages fans to make eco friendly pledges on match days. Our data science consulting team partnered with Pledgeball to analyse 200,000+ fan engagement records from July 2020 to January 2025, aiming to understand what drives pledges and how fan engagement could be amplified across leagues, regions and match timings. Our goal was simple but powerful: How can data help Pledgeball increase its impact, motivating more fans to submit pledges and amplifying sustainability through football?
 
 ### Key Questions We Set Out to Answer:
 
